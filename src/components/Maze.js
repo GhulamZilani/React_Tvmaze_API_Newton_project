@@ -1,5 +1,5 @@
 import './Maze.css';
-import {useRef, useState} from 'react';
+import {useState} from 'react';
 import Person from './Person';
 import Shows from './Shows';
 

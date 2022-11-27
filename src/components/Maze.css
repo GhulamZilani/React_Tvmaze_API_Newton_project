@@ -1,0 +1,15 @@
+.box
+{
+    display: flex;
+    justify-content: left;
+    /* align-items: center; */
+    flex-wrap: wrap;
+}
+body{
+    padding: 50px;
+    margin: 40px;
+    background-color: blue;
+    /* justify-content: center; */
+    text-align: 40%;
+    box-sizing: content-box;
+}
